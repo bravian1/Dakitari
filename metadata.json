@@ -1,0 +1,5 @@
+{
+  "name": "Dakitari",
+  "description": "A voice-first, AI-powered clinical triage tool for Community Health Volunteers in rural East Africa.",
+  "requestFramePermissions": ["microphone"]
+}
